@@ -1,0 +1,14 @@
+button {
+  min-width: 100px;
+  height: auto;
+  padding: 10px 20px;
+  background-color: darkslategrey;
+  color: #fff;
+  border: none;
+  cursor: pointer;
+  border-radius: 4px;
+}
+
+button:focus {
+  outline: none;
+}
